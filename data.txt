@@ -1,0 +1,269 @@
+Problems With Array Data Structures
+
+
+Duration: 17 min, 30 sec
+
+Introduction to Linked List
+
+
+Duration: 3 min, 23 sec
+
+Simple Linked List Implementation in C++
+
+
+Duration: 8 min, 43 sec
+
+Simple Linked List Implementation in Java
+
+
+Duration: 6 min, 11 sec
+
+Applications of Linked List
+
+
+Duration: 6 min, 39 sec
+
+Traversing a Linked List in C++
+
+
+Duration: 6 min, 49 sec
+
+Traversing a Linked List in Java
+
+
+Duration: 5 min, 8 sec
+
+Recursive Traversal of Singly Linked List
+
+
+Duration: 4 min, 19 sec
+
+Insert at Begin of Singly Linked List
+
+
+Duration: 6 min, 9 sec
+
+Insert at the end of Singly Linked List
+
+
+Duration: 5 min, 14 sec
+
+Delete First Node of Singly Linked List
+
+
+Duration: 3 min, 22 sec
+
+Delete Last of Singly Linked List
+
+
+Duration: 5 min, 52 sec
+
+Insert at given position in Singly Linked List
+
+
+Duration: 7 min, 36 sec
+
+Search in a Linked List (Iterative and Recursive)
+
+
+Duration: 11 min, 9 sec
+
+Doubly Linked List in C++
+
+
+Duration: 2 min, 49 sec
+
+Doubly Linked List in Java
+
+
+Duration: 2 min, 57 sec
+
+Singly Vs Doubly Linked List (Advantages & Disadvantages)
+
+
+Duration: 6 min, 1 second
+
+Insert at Begin of Doubly Linked List
+
+
+Duration: 4 min,
+
+Reverse a Doubly Linked List
+
+
+Duration: 8 min,
+
+Delete Head of a Doubly Linked List
+
+
+Duration: 3 min, 51 sec
+
+Delete Last of a Doubly Linked List
+
+
+Duration: 6 min, 13 sec
+
+Circular Linked List in C++
+
+
+Duration: 2 min, 44 sec
+
+Circular Linked List in Java
+
+
+Duration: 2 min, 43 sec
+
+Insert at End Doubly Linked List
+
+
+Duration: 5 min, 54 sec
+
+Circular Linked List (Advantages & Disadvantages)
+
+
+Duration: 4 min, 25 sec
+
+Circular Linked List Traversal in C++
+
+
+Duration: 5 min, 59 sec
+
+Circular Linked List Traversal in Java
+
+
+Duration: 7 min, 45 sec
+
+Insert at Begin of Circular Linked List
+
+
+Duration: 10 min, 17 sec
+
+Insert at the end of Circular Linked List
+
+
+Duration: 8 min, 32 sec
+
+Delete Head of Circular Linked List
+
+
+Duration: 5 min, 42 sec
+
+Delete Kth of a Circular Linked List
+
+
+Duration: 7 min, 14 sec
+
+Circular Doubly Linked List
+
+
+Duration: 7 min, 28 sec
+
+Sorted Insert in a Singly Linked List
+
+
+Duration: 10 min, 35 sec
+
+Middle of linked list
+
+
+Duration: 6 min, 55 sec
+
+Nth Node from end of Linked List
+
+
+Duration: 9 min, 1 second
+
+Reverse a linked list iterative
+
+
+Duration: 10 min, 2 sec
+
+Recursive reverse a linked list (Part 1)
+
+
+Duration: 7 min, 9 sec
+
+Recursive reverse a linked list (Part 2)
+
+
+Duration: 7 min, 2 sec
+
+Remove duplicates from a sorted Singly Linked List
+
+
+Duration: 10 min,
+
+Reverse a linked list in groups of size k
+
+
+Duration: 13 min, 3 sec
+
+Detect loop
+
+
+Duration: 14 min, 8 sec
+
+Detect loop using floyd cycle detection
+
+
+Duration: 13 min, 37 sec
+
+Detect and remove loop in linked list
+
+
+Duration: 18 min, 13 sec
+
+Delete node with only pointer given to it
+
+
+Duration: 4 min, 34 sec
+
+Segregate Even and Odd Nodes in C++
+
+
+Duration: 9 min, 10 sec
+
+Segregate Even and Odd Nodes in Java
+
+
+Duration: 9 min, 50 sec
+
+Intersection of two linked list
+
+
+Duration: 8 min, 2 sec
+
+Pairwise Swap Nodes of linked list in C++
+
+
+Duration: 11 min, 41 sec
+
+Pairwise Swap Nodes of linked list in Java
+
+
+Duration: 11 min, 51 sec
+
+Clone a linked list with Random Pointer in C++
+
+
+Duration: 13 min, 38 sec
+
+Clone a linked list with Random Pointer in Java
+
+
+Duration: 13 min, 51 sec
+
+LRU Cache Design
+
+
+Duration: 13 min, 24 sec
+
+Merge two sorted linked lists
+
+
+Duration: 15 min, 3 sec
+
+Palindrome Linked List
+
+
+Duration: 10 min, 18 sec
